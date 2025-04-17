@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "33150a11c3a7b66d",
@@ -169,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a348b01c009960d7",
+  "active": "59acc40223bff832",
   "lastOpenFiles": [
     "Lecture-1.md"
   ]
